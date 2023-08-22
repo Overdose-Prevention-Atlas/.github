@@ -1,4 +1,6 @@
-## Hi there 👋
+## Overdose Prevention Atlas 
+
+by Stanford Stats 4 Good & Phillips Academy
 
 <!--
 
